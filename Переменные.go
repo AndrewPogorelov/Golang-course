@@ -26,4 +26,8 @@ func main() {
 	var symbol1 uint64 = '\u5555' // будет какая нибудь фигня в виде иероглифа
 	fmt.Println(string(symbol) + "" + string(symbol1))
 
+	var d int = 5
+	fmt.Println(d)
+	d--
+	fmt.Println(d)
 }
