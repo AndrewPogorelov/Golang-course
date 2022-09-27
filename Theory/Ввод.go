@@ -1,5 +1,0 @@
-package Theory
-
-func main() {
-
-}
